@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-24T07:06:41 IST" name="Suite" finished-at="2021-07-24T07:06:43 IST" duration-ms="2098">
+    <groups>
+    </groups>
+    <test started-at="2021-07-24T07:06:41 IST" name="Test" finished-at="2021-07-24T07:06:43 IST" duration-ms="2098">
+      <class name="TestCases.TC_VideoGame_API">
+        <test-method signature="test_addNewVideoGame()[pri:2, instance:TestCases.TC_VideoGame_API@78123e82]" started-at="2021-07-24T07:06:41 IST" name="test_addNewVideoGame" finished-at="2021-07-24T07:06:43 IST" duration-ms="2067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+      </class> <!-- TestCases.TC_VideoGame_API -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

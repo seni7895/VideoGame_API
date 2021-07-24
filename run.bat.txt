@@ -1,0 +1,2 @@
+cd C:\Users\user\eclipse-workspace\VideoGame_API
+mvn clean install
